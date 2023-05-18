@@ -1,0 +1,10 @@
+div.icon-bar{
+    border-bottom: 1px solid black;
+    width: 10px;
+    height: 5px;
+}
+
+#hamburger-btn{
+    padding-bottom: 10px !important;
+    margin-right: 10px;
+}
